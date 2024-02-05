@@ -1,0 +1,1 @@
+export const baseURL = 'https://spfreightsystem.online/public/api';
